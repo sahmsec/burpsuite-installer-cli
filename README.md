@@ -23,16 +23,16 @@ git --version
 
 ## Installation Commands
 
-### Windows (PowerShell)
-
-```powershell
-git clone https://github.com/sahmsec/burpsuite.git; cd burpsuite; java -jar burpsuite-installer.jar
-```
-
 ### Linux
 
 ```bash
 git clone https://github.com/sahmsec/burpsuite.git && cd burpsuite && java -jar burpsuite-installer.jar
+```
+
+### Windows (PowerShell)
+
+```powershell
+git clone https://github.com/sahmsec/burpsuite.git; cd burpsuite; java -jar burpsuite-installer.jar
 ```
 
 ### macOS
